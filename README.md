@@ -5,7 +5,7 @@
 Shan font ပဵၼ်ၾွၼ်ႉဢၼ်ၶူင်သၢင်ႈၶိုၼ်ႈပုၼ်ႈတႃႇ သႂ်ႇၼိူဝ်ဝႅပ်ႉၾႃႇသႃႇတႆးၵမ်းသိုဝ်ႈ။ ၾွၼ်ႉၼႆႉဢၢင်ႈဢိင်ဢဝ်ၾွၼ်ႉ Panglong Unicode သေ ၶူင်သၢင်ႈၶိုၼ်ႈမႃး ပုၼ်ႈတႃႇႁႂ်ႈၵၢၼ်ႁဵတ်းႁႂ်ႈၵၢၼ် embed ၾွၼ်ႉတႆးၼၼ်ႉ ႁဵတ်းလႆႈငၢႆႈ၊ တူၺ်းလႆႈၼႂ်း browser ၸဵမ်ၾူၼ်းလႄႈၶွမ်း၊ ဢိၵ်ႇတင်းႁဵတ်းႁႂ်ႈၵၢၼ်လူတ်ႊၾွၼ်ႉၼၼ်ႉဝႆး ၼႆယဝ်ႉ။
 
 ## ၵၢၼ်ၸႂ်ႉၾွၼ်ႉၼႂ်း HTML/CSS
-1. Copy code ပႃႈတႂ်ႈၼႆႉ
+1. Copy လႄႈသႂ်ႇ code ပႃႈတႂ်ႈၼႆႉ
 ```ruby
 <link rel="stylesheet" href='//shanfont.com/Shan.css' />
 ```
@@ -14,7 +14,7 @@ Shan font ပဵၼ်ၾွၼ်ႉဢၼ်ၶူင်သၢင်ႈၶိ�
 
 ## ၵၢၼ်ၸႂ်ႉၾွၼ်ႉၼႂ်း WordPress
 1. ၵႂႃႇတီႈ Apperance > Cutomize > Additional CSS
-2. Copy code ပႃႈတႂ်ႈၼႆႉ
+2. Copy လႄႈသႂ်ႇ code ပႃႈတႂ်ႈၼႆႉ
 ```ruby
 @import url("//shanfont.com/shan.css");
 ```
@@ -38,10 +38,10 @@ body, ul, ol, li, img, div, blockquote, button, canvas, caption, code, data, dd,
     }
 ```
 **Built On**
-***
+---
 CSS
 
 **Developer**
-***
+---
 Developed by: Tai Developer
 www.shanfont.com
