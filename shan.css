@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Shan';
+    src: url('//fonts.loitai.com/Shan.woff2') format('woff2'),
+        url('//fonts.loitai.com/Shan.woff') format('woff'),
+        url('//fonts.loitai.com/Shan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
