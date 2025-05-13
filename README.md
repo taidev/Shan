@@ -9,6 +9,7 @@ Shan font ပဵၼ်ၾွၼ်ႉဢၼ်ၶူင်သၢင်ႈၶိ�
 ```ruby
 <link rel="stylesheet" href='https://taidev.github.io/Shan/shan.css' />
 ```
+
 2. ၵႂႃႇသႂ်ႇၼႂ်းၵႄႈ <head> </head>
 
 
@@ -105,4 +106,4 @@ CSS
 **Developer**
 ---
 Developed by: Shan Font Team
-https://www.shanfont.com
+<a href="https://www.shanfont.com"> shanfont.com </a>
