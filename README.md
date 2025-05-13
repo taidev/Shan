@@ -7,9 +7,9 @@ Shan font ပဵၼ်ၾွၼ်ႉဢၼ်ၶူင်သၢင်ႈၶိ�
 ## ၵၢၼ်ၸႂ်ႉၾွၼ်ႉၼႂ်း HTML/CSS
 1. Copy လႄႈသႂ်ႇ code ပႃႈတႂ်ႈၼႆႉ
 ```ruby
-<link rel="stylesheet" href='//shanfont.com/Shan.css' />
+<link rel="stylesheet" href='//shanfont.com/shan.css' />
 ```
-2. ၵႂႃႇသႂ်ႇၼႂ်းၵႄႈ <head> </head
+2. ၵႂႃႇသႂ်ႇၼႂ်းၵႄႈ <head> </head>
 
 
 ## ၵၢၼ်ၸႂ်ႉၾွၼ်ႉၼႂ်း WordPress
@@ -22,18 +22,79 @@ Shan font ပဵၼ်ၾွၼ်ႉဢၼ်ၶူင်သၢင်ႈၶိ�
 
 ## ၸႂ်ႉ @fontface ပုၼ်ႈတႃႇ Custom CSS
 ```ruby
-/* @font-face to load Shan font */
+/* Shan Thin */
 @font-face {
-     font-family: 'Shan';
-     src: local('Shan'),
-         url('//fonts.loitai.com/Shan.woff2') format('woff2'),
-         url('//fonts.loitai.com/Shan.woff') format('woff');
- }
+  font-family: 'Shan';
+  src: url('/fonts/Shan-Thin.woff2') format('woff2');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Shan';
+  src: url('/fonts/Shan-ThinItalic.woff2') format('woff2');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Shan Regular */
+@font-face {
+  font-family: 'Shan';
+  src: url('/fonts/Shan-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Shan';
+  src: url('/fonts/Shan-RegularItalic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Shan Bold */
+@font-face {
+  font-family: 'Shan';
+  src: url('/fonts/Shan-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Shan';
+  src: url('/fonts/Shan-BoldItalic.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Shan Black */
+@font-face {
+  font-family: 'Shan';
+  src: url('/fonts/Shan-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Shan';
+  src: url('/fonts/Shan-BlackItalic.woff2') format('woff2');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
  
  /* apply fonts to basic html elements */  
 body, ul, ol, li, img, div, blockquote, button, canvas, caption, code, data, dd, del, details, dialog, dl, element, em, footer, form, hr, i, nav, q, span, a, input, hr, quote, table, h1, h2, h3, h4, h5, h6, p, pre, kbd, tt, var, samp, select, textarea, optgroup, details, progress, main {     
       font-family: 'Shan', sans-serif;
-      line-height: 1.7 !important;   
+      line-height: 1.6 !important;   
       font-weight: 400;
     }
 ```
@@ -43,5 +104,5 @@ CSS
 
 **Developer**
 ---
-Developed by: Tai Developer
+Developed by: Shan Font
 www.shanfont.com
