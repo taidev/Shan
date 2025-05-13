@@ -7,7 +7,7 @@ Shan font ပဵၼ်ၾွၼ်ႉဢၼ်ၶူင်သၢင်ႈၶိ�
 ## ၵၢၼ်ၸႂ်ႉၾွၼ်ႉၼႂ်း HTML/CSS
 1. Copy လႄႈသႂ်ႇ code ပႃႈတႂ်ႈၼႆႉ
 ```ruby
-<link rel="stylesheet" href='//shanfont.com/shan.css' />
+<link rel="stylesheet" href='https://taidev.github.io/Shan/shan.css' />
 ```
 2. ၵႂႃႇသႂ်ႇၼႂ်းၵႄႈ <head> </head>
 
@@ -16,7 +16,7 @@ Shan font ပဵၼ်ၾွၼ်ႉဢၼ်ၶူင်သၢင်ႈၶိ�
 1. ၵႂႃႇတီႈ Apperance > Cutomize > Additional CSS
 2. Copy လႄႈသႂ်ႇ code ပႃႈတႂ်ႈၼႆႉ
 ```ruby
-@import url("//shanfont.com/shan.css");
+@import url("https://taidev.github.io/Shan/shan.css");
 ```
 	
 
@@ -104,5 +104,5 @@ CSS
 
 **Developer**
 ---
-Developed by: Shan Font
-www.shanfont.com
+Developed by: Shan Font Team
+https://www.shanfont.com
